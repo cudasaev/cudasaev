@@ -5,7 +5,7 @@
 - ``Часовой пояс``: UTC+7
 ## Ссылки
 - ``Донат``: [**DonationAlerts**](<https://donationalerts.com/r/cudasaev>)
-- ``Канал``: [**Discord**](<https://discord.gg/zRrpJe6uJQ>)
+- ``Сервер``: [**Discord**](<https://discord.gg/zRrpJe6uJQ>)
 - ``Канал``: [**YouTube**](<https://youtube.com/@cudasaev>)
 ## Связь со мной
 - ``Контакт``: [**Telegram**](<https://t.me/cudasaev>)
