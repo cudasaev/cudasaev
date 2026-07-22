@@ -4,8 +4,8 @@
 - ``Возраст``: 19 лет
 - ``Часовой пояс``: UTC+7
 ## Ссылки
-- ``Поддержать / Донат``: [**DonationAlerts**](<https://donationalerts.com/r/cudasaev>)
-- ``Сервер``: [**Discord**](<https://discord.gg/zRrpJe6uJQ>)
+- ``Донат``: [**DonationAlerts**](<https://donationalerts.com/r/cudasaev>)
+- ``Канал``: [**Discord**](<https://discord.gg/zRrpJe6uJQ>)
 - ``Канал``: [**YouTube**](<https://youtube.com/@cudasaev>)
 ## Связь со мной
 - ``Контакт``: [**Telegram**](<https://t.me/cudasaev>)
