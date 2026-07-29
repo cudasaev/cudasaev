@@ -8,5 +8,5 @@
 - ``Сервер``: [**Discord**](<https://discord.gg/zRrpJe6uJQ>)
 - ``Канал``: [**YouTube**](<https://youtube.com/@cudasaev>)
 ## Связь со мной
-- ``Контакт``: [**Telegram**](<https://t.me/cudasaev_bot>)
+- ``Контакт``: [**Telegram**](<https://t.me/cudasaev>)
 - ``Почта``: __cudasaev@gmail.com__
